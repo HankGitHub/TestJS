@@ -1,3 +1,5 @@
 <?php
-	echo "Hello Wolrd";
+	$_what = 300;
+	
+	die("Gu eng");
 ?>
