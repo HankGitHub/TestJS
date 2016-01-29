@@ -1,3 +1,5 @@
 <?php
-	echo "Hello Wolrd";
+	echo "Hello Wolrd Njaja";
+	
+	$_hello = "20";
 ?>
